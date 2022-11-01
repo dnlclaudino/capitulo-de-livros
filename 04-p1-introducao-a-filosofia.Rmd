@@ -13,6 +13,8 @@ knitr::include_graphics("imagens/Capa-Livro-Introducao-a-Filosofia-MARILENA-CHAU
 
 ### Capítulo 28 - A Liberdade
 
+Esse resumo foi elaborado para apresentação de atividade da disciplina História da Psicologia para segunda nota avaliativa.
+
 #### Introdução
 
 * Como é possível SER LIVRE ?
