@@ -42,7 +42,7 @@ Esses materiais estarão relacionados com as disciplinas do 1º até o 10º per�
 
 |Versão| Data / Hora | Colaborador | Descrição da Contribuição
 |:--|:--|:--|:--|
-| 0.1 | dd/mm/aaaa xxh00 | [Daniel Claudino](https://wa.me/5583988853815) | Versão inicial do documento|
+| 0.1 | 01/11/2022 11h34 | [Daniel Claudino](https://wa.me/5583988853815) | Versão inicial do documento|
 
 
 ## Referências Bibliográficas

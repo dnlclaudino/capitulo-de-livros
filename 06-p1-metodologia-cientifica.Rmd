@@ -1,110 +1,304 @@
 # P1 - Metodologia Científica
 
-Neste capítulo estarão contidos os resumos dos slides da disciplina Metodologia Científica.
+capa-livro-fundamentos-metodologia-cientifica-lakatos.png
 
-## Slides da Aula 06 - "Normas ABNT para Elaboração de Trabalhos Científicos"
+## Resumo do Livro "**Fundamentos de Metodologia Científica**" (MARCONI; LAKATOS; TEIXEIRA, 2017)
 
-### Trabalhos Acadêmicos
+<p align="center"> 
+<img height="450" width="350" src="https://live.staticflickr.com/65535/52415559867_90af1ac9ff_o_d.png"></img><br>
+<b>Figura</b> - Livro "Fundamentos de Metodologia Científica" (MARCONI; LAKATOS; TEIXEIRA, 2017)
+</p>
 
-#### Definições
+### Capítulo 8 - Pesquisa
 
-* **MONOGRAFIA**:
-  * Término do curso de graduação: os estudantes têm o compromisso de elaborar um trabalho mais aprofundado
-  * É a exposição exaustiva de um problema ou assunto específico, investigado cientificamente.
-  * É elaborada sob coordenação de um(a) orientador(a).
-  * Monografia de graduação: objetiva a obtenção do grau de bacharel, licenciado ou tecnólogo
-  * Monografia de especialização: objetiva a obtenção do grau de especialista
-* **DISSERTAÇÃO DE MESTRADO**
-  * Dissertação um tipo de trabalho científico apresentado ao final do curso de pós-graduação, visando obter o título de mestre/mestra.
-  * Situa-se entre a monografia de graduação e a tese de doutorado - aborda temas em maior extensão e profundidade do que a primeira e é fruto de reflexão e de rigor científico, próprio da tese de doutorado, mas sendo ainda um treinamento ou iniciação à investigação
-* **TESE DE DOUTORADO**
-  * Trabalho científico que apresenta o resultado de um estudo científico ou uma pesquisa experimental de tema específico e bem delimitado.
-  * Deve ser elaborada com base em investigação original, constituindo-se em real contribuição para a especialidade em questão
+#### Conceito de Pesquisa
 
-#### Regras Gerais de Formatação
+* **Bagno** (2010, p. 17 apud MARCONI; LAKATOS, p. 185) afirma que a palavra PESQUISA chegou até o Português através do Espanhol, que por sua vez assimilou do Latim:
+  * Latim *PERQUIRO*:
+    * **Significado**: 1. Procurar por toda parte; buscar com cuidado. 2.Inquirir. 3. Perguntar; indagar bem, aprofundar na busca
+    * O significado dessa palavra em Latim insiste na **ideia de uma busca feita com cuidado e profundidade**.
+* **Ander-Egg** (1978, p. 28 apud MARCONI; LAKATOS, p. 185) a PESQUISA é:
+  * Um PROCEDIMENTO:
+    * Formal
+    * Reflexivo ( Método de Pensamento );
+    * Sistemático;
+    * Controlado;
+    * Crítico
+  * Que PERMITE, em qualquer campo do conhecimento, DESCOBRIR
+    * Novos fatos ou dados;
+    * Relações ou leis
+  * Que REQUER
+    * Tratamento científico
+  * Que CONSTITUI
+    * Caminho para CONHECER A REALIDADE
+    * Caminho para CONHECER VERDADES PARCIAIS
 
-|Elemento|Regra de Formatação|
-|:--|:--|
-|**Papel**|Papel branco, formato A4 (21 cm x 29,7 cm), na posição retrato.|
-|**Fonte**|- Arial ou Times New Roman, simples Tamanho 12 para texto e títulos<br>- Cor preta para o texto<br>- Tamanho de fonte 10 para:<br>* citações com mais de três linhas<br>* notas de rodapé<br>* paginação<br>* legendas das ilustrações;<br> * tabelas|
-|**Margens**| - Margem esquerda e superior de 3 cm;<br>- Margem direita e inferior de 2 cm<br>-Justificado|
-|**Espaçamento**|- 1,5 entre linhas:<br>* Para o texto<br>- Simples:<br>* Para Citações diretas de mais de 3 linhas<br>- notas de rodapé<br>- legendas das ilustrações e das tabelas|
-|**Paginação**|- A numeração é colocada a partir da primeira folha da parte textual<br>- Numeração deve ser colocada no anto superior direito|
+#### Passos para DESENVOLVIMENTO DE UM PROJETO DE PESQUISA
 
+1. **Seleção** do tópico (Problema) para investigação;
+2. **Definição** e **diferenciação** do problema;
+3. **Levantamento** de hipóteses de trabalho;
+4. **Coleta**, **sistematização** e **classificação** dos dados;
+5. **Análise** e **interpretação** dos dados;
+6. **Elaboração** do relatório do resultado da pesquisa
 
-```{r echo=FALSE, fig.show="hold", out.width="80%", fig.align = "center", fig.cap="Exemplo de formatação das margens de uma página"}
-knitr::include_graphics("imagens/exemplo-formatacao-slides-pagina.png")
+##### Planejamento da Pesquisa
+
+##### Preparação da Pesquisa
+
+1. Decisão;
+2. Especificação dos objetivos;
+3. Elaboração de um plano de trabalho;
+4. Constituição da equipe de trabalho;
+5. Levantamento de recursos e cronograma
+ 
+#### Fases da Pesquisa
+
+1. Escolha do tema;
+2. Levantamento de dados;
+3. Formulação do problema;
+4. Definição dos termos;
+5. Construção de hipóteses;
+6. Indicação de variáveis;
+7. Delimitação da pesquisa;
+8. Amostragem;
+9. Seleção de métodos e técnicas;
+10. Organização do instrumental de pesquisa;
+11. Teste de instrumentos e procedimentos
+
+#### Execução da Pesquisa
+
+1. C3oleta de dados;
+2. Elaboração dos dados;
+3. Análise e interpretação dos dados;
+4. Representação dos dados;
+5. Conclusões
+
+#### Relatório de Pesquisa
+
+#### PLANEJAMENTO DA PESQUISA: Preparação da Pesquisa
+
+##### Decisão
+
+* Esse é o momento em que o pesquisador **toma a decisão** de **realizar ou não realizar** a pesquisa;
+* A pesquisa pode ser realizada **no INTERESSE**:
+  * Do Próprio Pesquisador;
+  * De Alguém
+  * De Alguma Entidade;
+* Nem sempre é fácil se dereminar **o que se pretente investigar**
+* A INVESTIGAÇÃO PRESSUPÕE:
+  * Uma série de CONHECIMENTOS ANTERIORES;
+  * Metodologia adequada
+
+##### Especificação dos objetivos
+
+* O OBJETIVO torna **EXPLÍCITO O PROBLEMA**;
+* Os OBJETIVOS orientam a pesquisa para se **SABER**:
+  * O QUE se vai PROCURAR;
+  * O QUE se pretende ALCANÇAR
+* Os objetivos devem **SER**
+  * LIMITADOS
+  * CLARAMENTE DEFINIDOS
+* Os objetivos podem **DEFINIR**
+  * A natureza do trabalho;
+  * O tipo do problema;
+  * O material a coletar
+
+```mermaid
+flowchart LR
+A(Os <b>OBJETIVOS</b>)-->B(Podem SER)
+A-->C(Respondem as PERGUNTAS)
+C-->R(Por Quê?)
+C-->S(Para Quê)
+C-->T(Para Quem?)
+B-->D((a))
+D-->H(Intrínsecos)
+D-->M(Extrínsecos)
+B-->E((b))
+E-->I(Teóricos)
+E-->N(Práticos)
+B-->F((c))
+F-->J(Gerais)
+F-->O(Específicos)
+B-->G((d))
+G-->K(De CURTO Prazo)
+G-->P(De LONGO Prazo)
 ```
 
-#### Títulos das Seções do Documento
+##### Elaboração de um plano de trabalho
 
-* **Títulos com indicativo numérico**: 
-  * Alinhados à margem esquerda; e 
-  * Devem ser precedidos por seu indicativo em algarismos arábicos (não se deve utilizar algarismos romanos) e dele separado por apenas um espaço.
-* **Destacam-se gradativamente**
-  * Os títulos das seções, utilizando-se os recursos de negrito, itálico, grifo, maiúsculas e versal (no Word, versalete), no texto e de forma idêntica, no sumário.
+* É um passo a passo de como o trabalho de pesquisa será realizado que facilita ou aumenta as suas chances de viabilidade;
+* Imprime ordem lógica a sua execução;
+* Tornam claros os RECURSOS **materiais**, **humanos** e de **tempo** necessários a sua execução;
+* **Pode** ou **não** ser alterado durante sua execução;
 
-```{r echo=FALSE, fig.show="hold", out.width="80%", fig.align = "center", fig.cap="Títulos das Seções do Documento"}
-knitr::include_graphics("imagens/titulos-secoes-documentos.jpg")
+##### Constituição da equipe de trabalho
+
+* Engloba
+  * Recrutamento de pessoal;
+  * Treinamento de pessoal;
+  * Distribuição de tarefas;
+  * Indicação dos locais de trabalho;
+  * Indicação dos materiais e equipamentos
+* **Observação**: A pesquisa também pode ser realizada por **uma pessoa** apenas.
+
+##### Levantamento de recursos e cronograma
+
+* O pesquisados deve fazer DE ANTEMÃO a previsão dos gastos necessários para a realização da pesquisa ( orçamento o mais aproximado possível do montante de recursos );
+* Não pode falta um cronograma para executar a pesquisa em cada uma de suas etapas
+
+```mermaid
+flowchart LR
+A(O <b>CRONOGRAMA</b> e<br>Os <b>RECURSOS</b>)-->C(Respondem as PERGUNTAS)
+C-->R(Quando ?)
+C-->S(Quanto ?)
 ```
 
-#### Estrutura Geral do Trabalho Acadêmico
+#### PLANEJAMENTO DA PESQUISA: Fases da Pesquisa
 
-|Elemento|Regra de Formatação||
-|:--|:--|:--|
-|**Pré-texto**|- Capa<br>- Folha de Rosto<br>- Ficha Catalográfica<br>- Dedicatória<br>- Agradecimentos<br>- Resumo|<br>Abstract<br>- Keywords<br>- Sumário<br>- Lista de Figuras<br>- Lista de Tabelas<br>- Lista de Abreviações<br>- Apresentação|
-|**Texto**|Introdução<br>- Objetivos<br>- Justificativa<br>- Corpo do Trabalho ou Desenvolvimento / Método<br>- Cronograma<br>- Orçamento<br>- Resultados<br>- Conclusões|
-|**Pós-Texto**|Referências<br>- Anexos<br>- Índice Remissivo<br>- Glossário|
+##### Escolha do tema;
+
+* O **TEMA** é o **ASSUNTO** que se deseja estudar e pesquisar;
+* A **DEFINIÇÃO DO TEMA** <u>pode perdurar por toda a pesquisa</u> e deverá ser **FREQUENTEMENTE REVISTO**;
+* ESCOLHA um TEMA/ASSUNTO
+  * Que MEREÇA ser investigado cientificamente;
+  * Que TENHA CONDIÇÕES de ser, em função da pesquisa:
+    * Formulado;
+    * Delimitado
+    * Exequível (disponibilidade de tempo do pesquisador, background acadêmico, recursos, etc...)
+* O TEMA/ASSUNTO deve SER:
+  * Preciso
+  * Bem determinado
+  * Específico
+
+```mermaid
+flowchart LR
+A(A <b>escolha do TEMA</b>)-->B(Responde a PERGUNTA)-->C(<b>O QUE</b> será<br>PESQUISADO/EXPLORADO ?)
+```
+
+##### Levantamento de dados;
+
+* São TRÊS as formas de OBTENÇÃO DE DADOS:
+  * Pesquisa Bibliográfica
+  * Pesquisa Documental
+  * Contatos Diretos
+##### Pesquisa Bibliográfica
+
+* Apanhado geral sobre os **principais trabalhos realizados**
+* Procura-se, relacionados ao TEMA:
+  * Dados atuais;
+  * Dados relevantes;
+  * Indícios importantes
+  * Subsídios importantes
+* Pode orientar indagações sore a pesquisa
+* ANTES de qualquer PESQUISA DE CAMPO deve-se realizar uma ANÁLISE MINUCIOSA de FONTES DOCUMENTAIS que sirvam de suporte à pesquisa
+
+##### Investigação Preliminar
+
+* Também chamada de **ESTUDO EXPLORATÓRIO**.
+* Deve ser realizada através de **DOIS ASPECTOS**:
+  * **DOCUMENTOS**
+    * **PRINCIPAIS TIPOS DE DOCUMENTOS**
+      a. Fontes **PRIMÁRIAS**:
+        a. Dados Históricos;
+        b. Dados Bibliográficos;
+        c. Dados Estatísticos;
+        d. Documentação **pessoal**;
+          a. Autobiografias
+          b. Certidão de nascimento
+          c. Certidão de óbito
+          d. Diários
+          e. Memórias
+        e. Registros de natureza pública/privada
+      b. Fontes **SECUNDÁRIOS**
+        a. Imprensa em geral
+        b. Obras literárias
+  * **CONTATOS DIRETOS / PESQUISA DE CAMPO / PESQUISA DE LABORATÓRIO**
+    * São realizados com PESSOAS que podem **fornecer os dados diretamente**;
+    * São realizadas com PESSOAS que podem **sugerir fontes de informações úteis**;
 
 
-#### Citações
+##### Formulação do problema;
 
-* Citação é a menção, no texto, de informação extraída de outra fonte;
-* Todas as citações do texto devem constar nas Referências;
-* Todos os documentos relacionados nas Referências devem ser citados no texto;
-* Sistema de chamada autor-data entre parênteses: p. ex.(LEAL, 2022)
-* **Tipos de citação**:
-  * **citação direta**: transcrição textual literal de parte da obra do autor consultado;
-  * **citação indireta**: texto escrito baseado na obra do autor consultado;
-  * **citação de citação**: texto escrito em que não se teve acesso ao original.
+* PROBLEMA:
+  * É uma DIFICULDADE, teórica ou prática, NO CONHECIMENTO de alguma coisa;
+  * É uma DIFICULDADE para a qual SE QUER ENCONTRAR uma solução;
 
-#### CITAÇÃO DIRETA
+##### Definição do Problema
 
-##### ATÉ 3 LINHAS
+  * O que é **DEFINIR O PROBLEMA** ?
+    * É especificar a **DIFICULDADE** em detalhes precisos e exatos;
+    * É especificar a **DIFICULDADE** com clareza, concisão e objetividade
+  * A **CLAREZA DO PROBLEMA** ajuda na CONTRUÇÃO DA HIPÓTESE CENTRAL;
+  * **COMO DEVE SER DEFINIDO** o **PROBLEMA** ?
+    * Na forma INTERROGATIVA
+    * Delimitando-o de forma a indicar as **VARIÁVEIS** que **AFETAM O ESTUDO** com possíveis **RELAÇÕES ENTRE SI**.
+  * A **FORMULAÇÃO DE UM PROBLEMA**
+    * Requer **CONHECIMENTOS PRÉVIOS** no assunto, exigindo:
+      * Materiais informativos
+      * Imaginação criadora
+  * Deve-se evitar PROBLEMAS MUITO ABRANGENTES, pois tornam a pesquisa MAIS COMPLEXA;
 
-* As citações diretas de **até três linhas** devem estar contidas entre aspas duplas.
-* É obrigatória a menção da paginação de onde tal trecho foi extraído.
+##### APÓS a Definição do Problema
 
-#### MAIS DE 3 LINHAS
+  * **APÓS FORMULADO UM PROBLEMA**, segue-se as **ETAPAS VALORATIVAS**, analisando-se:
+    * **Viabilidade**: pode ser eficazmente resolvido através da pesquisa?
+    * **Relevância**: é capaz de trazer conhecimentos novos?
+    * **Novidade**: está adequado ao estádio atual da evolução científica?
+    * **Exequibilidade**: om esse problema, é possível chegar a uma conclusão
+válida?
+    * **Oportunidade**: o problema atende a INTERESSES **particulares** e **gerais**?
 
-* As citações diretas, no texto, de **mais de três linhas** devem ser destacadas com recuo de 4 cm da margem esquerda, com Letra menor que a do texto, espaçamento simples e sem aspas.
-* É obrigatória a menção da paginação de onde tal trecho foi extraído.
+##### Forma de conceber um problema científico
 
-#### CITAÇÃO INDIRETA
+* Qual o OBJETIVO DO TRABALHO DE PESQUISA ?
+  * PROBLEMA de : estudo descritivo, de caráter informativO explicativo ou preditivo;
+  * PROBLEMA de **INFORMAÇÃO**: coleta de dados a respeito de estruturas e condutas observáveis, dentro de uma área de fenômenos;
+  * PROBLEMA de de **AÇÃO**: campos de ação onde determinados conhecimento
+sejam aplicados com êxito.
+  * INVESTIGAÇÃO **PURA** e **APLICADA**: estuda um problema relativo ao conhecimento científico ou à sua aplicabilidade.
 
-* Transcrição de pensamentos e conceitos do autor consultado, porém descritos com as próprias palavras de quem está escrevendo.
+```mermaid
+flowchart LR
+A(A <b>Formulação do<br>PROBLEMA</b>)-->B(Responde as PERGUNTAS)-->C(<b>O QUÊ</b>?)
+B-->D(<b>COMO ?</b>)
+```
 
-#### CITAÇÃO DE CITAÇÃO
+##### Definição dos termos;
 
-* Transcrição direta ou indireta de uma obra citada por outro autor, ou seja, a qual não se teve
-acesso.
-* Indicar o sobrenome do(s) autor(es) do documento não consultado, seguido da data, da
-expressão latina apud (significa citado por) e do sobrenome do(s) autor(es) do documento
-consultado, data e página.
-* OBSERVAÇÃO: Nas REFERÊNCIAS é listada apenas a obra a qual se teve acesso
+* É tornar os TERMOS DA PESQUISA claros, compreensivos, objetivos e adequados que possam dar margem a interpretações errôneas;
+* O uso de termos apropriados, consistentemente definidos, CONTRIBUI para a **melhor compreensão da REALIDADE OBSERVADA**;
+* Há TERMOS que precisam ser compreendidos com um **SIGNIFICADO ESPECÍFICO**;
+* Há dois **TIPOS DE DEFINIÇÕES**:
+  * **SIMPLES**: apenas traduzem o significado do termo ou expressão meno
+conhecida;
+  * **OPERACIONAL**: além do significado, ajudam, com exemplos, na
+compreensão do conceito, tornando clara a experiência no mundo
+extensional.
 
-#### ELEMENTOS ESSENCIAIS
+##### Construção de hipóteses;
 
-##### COMO CITAR O(S) AUTOR(S) DA INFORMAÇÃO
 
-###### Um Autor
 
-###### Dois Autores
+##### Indicação de variáveis;
 
-###### Três Autores
 
-###### Mais que Três Autores
 
-###### Autoria Institucional
+##### Delimitação da pesquisa;
 
-###### No caso de Leis, Decretos e Outras Normas
+
+
+##### Amostragem;
+
+
+
+##### Seleção de métodos e técnicas;
+
+
+
+##### Organização do instrumental de pesquisa;
+
+
+
+#### Teste de instrumentos e procedimentos
+

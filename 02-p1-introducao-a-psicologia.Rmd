@@ -2,27 +2,29 @@
 
 Neste capítulo estarão contidos os resumos relacionados com a disciplina Introdução à Psicologia. 
 
-# 1. Livro: **Psicologias Uma Introdução ao Estudo da Psicologia** (BOCH; FURTADO; TEIXEIRA, 2001)
+## Livro: **Psicologias Uma Introdução ao Estudo da Psicologia** (BOCH; FURTADO; TEIXEIRA, 2001)
 
 <p align="center"> 
 <img height="450" width="350" src="https://live.staticflickr.com/65535/52390638614_bcd4d68efb_o_d.jpg"></img><br>
 <b>Figura</b> - Livro Psicologias: Uma Introdução ao Estudo da Psicologia. 13.ed. São Paulo: Saraiva, 2001
 </p>
 
-## 1.1 Resumo do Capítulo 3 - O Behaviorismo
+capa-livro-psicologias.jpg
+
+### Capítulo 3 - O Behaviorismo
 
 * Em breve, disponibilizaremos.
 
-## 1.2 Resumo do Capítulo 4 - A Gestalt
+### Capítulo 4 - A Gestalt
 
-### 1.2.1 A Psicologia da Forma: Introdução à Psicologia da Gestalt
+#### A Psicologia da Forma: Introdução à Psicologia da Gestalt
 
 * Para Bock (2001, p. 59) a Psicologia da Gestalt é uma das tendências teóricas mais **coerentes** e **coesas** da história da psicologia.
 * O termo Gestalt é de origem alemã e tem significado aproximado ao de **forma** ou **configuração**, ****porém**** **NÃO É UTILIZADO** por não corresponder exatamente as seu real significado em psicologia.
 * No final do século XIII, estudiosos procuravam compreender o **fenômeno psicológico** em seus <amarelo>aspectos naturais</amarelo>.
 	* Principalmente no sentido da **mensurabilidade** ( A Psicofísica em voga ).
 
-#### Predecessores da Psiologia da Gestalt
+##### Predecessores da Psiologia da Gestalt
 
 * Estudiosos considerados os mais diretos predecessores/antecessores da Psisocologia Gestalt:
 	* Ernst Mash (1838-1916), físico;
@@ -32,23 +34,12 @@ Neste capítulo estarão contidos os resumos relacionados com a disciplina Intro
 		* Dado Psicológico: Sensações
 		* Dados Físico: espaço-forma e tempo-forma
 
-``` mermaid
-gantt
-    title História da Psicologia da Gestalt
-    dateFormat  YYYY
-    axisFormat  
-    
-    section Predecessores
-    Ernst Mash : a1, 1890, 3650d
-    Christian von Ehrenfels : a2, 1890, 3650d
-    
-    section Fundadores
-    Max Wertheimer       : a3, after a2, 3650d
-    Wolfgang Kohler      : a4, after a2, 3650d
-    Kurt Koffka					 : a5, after a2, 3650d
-```
+* Fundadores
+  * Max Wertheimer
+  * Wolfgang Kohler
+  * Kurt Koffka
 
-#### Fundadores da Psiologia da Gestalt
+##### Fundadores da Psiologia da Gestalt
 
 * Os fundadores da Psicologia da Gestalt construíram a **base de uma teoria psicológica**.
 
@@ -63,7 +54,7 @@ gantt
 	* Preocupação: Compreender **quais processos psicológicos** estavam envolvidos na **ilusão de ótica** quando o estímulo é percebido como uma **forma** diferente da que o sujeito tem na realidade.
 		* Exemplo: Cinema; fotogramas estáticos; imagem formada na retina que demora um pouco para ser apagada; ilusão de óptica do movimento (sensação).
 
-### 1.2.2 A percepção
+#### A percepção
 
 * É **ponto de partida** e **tema central** da Psicologia da Gestalt;
 * Teoria Behaviorista
@@ -77,7 +68,7 @@ flowchart LR
 OQ(O que)--A Pessoa Percebe-->CC(Entendimento do Comportamento)
 CM(Como)--A Pessoa Percebe-->CC
 ``` 
-#### Posição de Behavioristas x Gestaltistas diante do Objeto da Psicologia
+##### Posição de Behavioristas x Gestaltistas diante do Objeto da Psicologia
 
 * Ambos definem a psicologia como a ****ciência que estuda o COMPORTAMENTO****
 * Para os Behavioristas:
@@ -92,7 +83,7 @@ CM(Como)--A Pessoa Percebe-->CC
 	* Entendem que estudar o comportamento isolado de um **contexto mais amplo** pode prejudicar o entendimento do comportamento pelo psicólogo;
 	* O comportamento é estudado em seus aspectos mais globais levando em consideração  as ****CONDIÇÕES**** que **afetam/alteram** nossa capacidade de ****PERCEBER**** o **estímulo**
 
-#### O que Garante o Entendimento do que Eu Percebo ?
+##### O que Garante o Entendimento do que Eu Percebo ?
 
 * Quando eu vejo
 	* Uma parte de um objeto
@@ -101,7 +92,7 @@ CM(Como)--A Pessoa Percebe-->CC
 * Garantindo
 		* O entendimento do que estou percebendo
 
-#### O Fenômeno da Percepção
+##### O Fenômeno da Percepção
 
 * É norteado pela busca de
 	* **fechamento** dos pontos que compõem uma figura;
@@ -124,7 +115,7 @@ CM(Como)--A Pessoa Percebe-->CC
 
 > Qualquer padrão de estímulo tende a ser visto de tal modo que a **estrutura resultante** é tão **simples** quanto as **condições dadas** permitem
 
-### 1.2.3 A boa-forma
+#### A boa-forma
 
 * A Psicologia da Gestalt encontra as **condições** para a **compreensão do comportamento humano** nos **fenômenos da percepção**.
 * Em relação aos nossos comportamentos:
@@ -149,17 +140,17 @@ CM(Como)--A Pessoa Percebe-->CC
 * (...)
   * COMO DEVEM SER DISTRIBUÍDOS OS ELEMENTOS QUE O COMPÕEM
 		* Para garantir a **boa forma** devem ser apresentados com
-			* Equilíbrio
-			* Simetria
-			* Estabilidade
-			* Simplicidade
+			- Equilíbrio
+			- Simetria
+			- Estabilidade
+			- Simplicidade
 * A **tendência da nossa percepção** em buscar a **boa forma** permitirá a relação **figura-fundo**
 * Quanto mais clara (simples, estável, simétrica e equilibrada) estiver a **boa-forma**
 	* Mais clara será a **separação** entre **figura** e **fundo**;
 * Quanto menos clara estiver a boa forma
 	* Mais difícil será distinguir o que é figura e o que é fundo (****Figura Ambígua****);
 
-### 1.2.4 Meio Geográfico e Meio Comportamental
+#### Meio Geográfico e Meio Comportamental
 
 * O <u>comportamento</u> **É DETERMINADO** pela **PERCEPÇÃO DO ESTÍMULO**;
 * O <u>comportamento</u> está/estará sujeito a **LEI DA BOA-FORMA**;
@@ -169,21 +160,21 @@ CM(Como)--A Pessoa Percebe-->CC
     * É o meio enquanto tal;
     * É o meio físico EM TERMOS OBJETIVOS;
   * **Meio COMPORTAMENTAL**
-    * É o meio resultante de INTERAÇÃO (Indivíduo &#008660; Meio Físico)
+    * É o meio resultante de INTERAÇÃO (Indivíduo <==> Meio Físico)
     * Implica a **INTERPRETAÇÃO** desse meio através das **FORÇAS** que regem a **PERCEPÇÃO**;
-      * Forças que regem a percepção:
-        * Equilíbrio
-        * Simetria
-        * Estabilidade
-        * Simplicidade
+      a. Forças que regem a percepção:
+        i. Equilíbrio
+        ii. Simetria
+        iii. Estabilidade
+        iv. Simplicidade
 * Exemplo
   * Cumprimentar uma pessoa desconhecida
   * Se só tivéssemos o **MEIO GEOGRÁFICO**, essa seria a nossa ÚNICA POSSIBILIDADE de percepção;
   * A **SITUAÇÃO** levou-nos a uma **INTERPRETAÇÃO DIFERENTE DA REALIDADE** e ocorre a confusão com uma pessoa conhecida
     * DADOS DA SITUAÇÃO:
-      * Encontro casual
-      * Encontro em movimento
-      * Impulso em manifestar uma reação ao encontro
+      a. Encontro casual
+      b. Encontro em movimento
+      c. Impulso em manifestar uma reação ao encontro
   * No caso desse exemplo
     * A semelhança entre as duas pessoas foi **A CAUSA DO ENGANO(=COMPORTAMENTO)**
     * Houve uma tendência em ESTABELECER A UNIDADE DE SEMELHANÇAS entre as duas pessoas, MAIS QUE SUAS DIFERÊNÇAS.
@@ -194,7 +185,7 @@ CM(Como)--A Pessoa Percebe-->CC
     * Realidade **OBJETIVA**
     * Realidade **CRIADA POR NOSSA MENTE**
 
-### 1.2.5 Campo Psicológico 
+#### Campo Psicológico 
 
 * Campo psicológico é uma tendência que **garante** (1) a busca pela melhor forma possível **em situações que não estão muito claras**.
 
@@ -205,7 +196,7 @@ B--Garante-->C(Busca da MELHOR FORMA<br>possível)
 B--Que Ocorre<br>Quando nos<br>Deparamos-->D(Com </b>SITUAÇÕES NÃO<br>MUITO CLARAS</b>)
 ```
 
-#### Princípios do Campo Psicológico
+##### Princípios do Campo Psicológico
 
 * O campo psicológico é um processo que ocorre de acordo com **PRINCÍPIOS**:
 
@@ -217,7 +208,7 @@ B-->D(Semelhança)-->G(Os ELEMENTOS SEMELHANTES<br>são AGRUPADOS)
 B-->E(Fechamento)-->H(Ocorre uma TENDÊNCIA<br>de COMPLETAR os<br>ELEMENTOS FALTANTES)
 ```
 
-### 1.2.6 Insight 
+#### Insight 
 
 * Significa **COMPREENSÃO IMEDIATA**;
 * Existe uma diferença em como duas correntes psicológicas concebem o ***processo de aprendizagem**:
@@ -232,28 +223,29 @@ B-->E(Fechamento)-->H(Ocorre uma TENDÊNCIA<br>de COMPLETAR os<br>ELEMENTOS FALT
 * Nem sempre **AS SITUAÇÕES VIVIDAS** se apresentam DE FORMA CLARA de maneira a permitir uma PERCEPÇÃO IMEDIATA.
   * Essas situações DIFICULTAM O PROCESSO DE APRENDIZADO, porque não permitem uma clara definição da FIGURA-FUNDO, impedindo a relação PARTE/TODO
 
-#### Explicação do Fenômeno de INSIGHT
+##### Explicação do Fenômeno de INSIGHT
 
 * Às vezes, estamos olhando para um **FIGURA** que **não tem sentido para nós**
 * De repente, sem que tenhamos feito nenhum esforço especial, **A RELAÇÃO FIGURA-FUNDOSE ESTABELECE**.
 
-### 1.2.7 Teoria de Campo de **Kurt Lewin**
+#### Teoria de Campo de **Kurt Lewin**
 
 <p align="center"> 
 <img height="250" width="200" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Kurt_Lewin_Photo.jpg/220px-Kurt_Lewin_Photo.jpg"></img><br>
 <b>Figura</b> - Kurt Lewin (1890-1947) <sup><a href="#KURT-LEWIN">*</a></sup>.
 </p>
 
-#### Kurt Lewin (1890-1947)
-  * Foi um psicólogo germano-estadunidense pioneiro da Psicologia Aplicada, Social e Organizacional nos Estados Unidos<sup><a href="#KURT-LEWIN">*</a></sup>.
-  * Trabalhou 10 anos com os pioneiros da Gestalt: Max Wertheimer, Wolfgang Kohler e Kurt Koffka
-  * Não era um Gestaltista, apesar dessa colaboração, já que ele seguiu um caminho teórico diferente desses pioneiros
-  * Da colaboração com os pioneiros da Gestalt nasceu a **Teoria de Campo**
-  * Lewin partiu da **teoria da Gestalt** para construir novos conhecimentos para a psicologia.
-    * Ele abandonou a preocupação **psicofisiológica**
-    * Ele buscou na **Física** a base metodológica de sua psicologia.
+##### Kurt Lewin (1890-1947)
+  
+* Foi um psicólogo germano-estadunidense pioneiro da Psicologia Aplicada, Social e Organizacional nos Estados Unidos<sup><a href="#KURT-LEWIN">*</a></sup>.
+* Trabalhou 10 anos com os pioneiros da Gestalt: Max Wertheimer, Wolfgang Kohler e Kurt Koffka
+* Não era um Gestaltista, apesar dessa colaboração, já que ele seguiu um caminho teórico diferente desses pioneiros
+* Da colaboração com os pioneiros da Gestalt nasceu a **Teoria de Campo**
+* Lewin partiu da **teoria da Gestalt** para construir novos conhecimentos para a psicologia.
+  * Ele abandonou a preocupação **psicofisiológica**
+  * Ele buscou na **Física** a base metodológica de sua psicologia.
 
-#### O Conceito de **Espaço Vital** e de **Campo Psicológico** de Lewin
+##### O Conceito de **Espaço Vital** e de **Campo Psicológico** de Lewin
 
 <center> <b>CAMPO VITAL</b>
 
@@ -287,11 +279,11 @@ C(Ambiente)<-->B(((Relação com)))
   * As amizades;
   * O AMBIENTE FÍSICO;
 
-### A REALIDADE FENOMÊNICA EM KURT LEWIN
+#### A REALIDADE FENOMÊNICA EM KURT LEWIN
 
 O que é essa realidade fenomênica ?
 
-1. **A MANEIRA PARTICULAR COMO UM INDIVÍDUO INTERPRETA DETERMINADA SITUAÇÃO &#10149; MEIO COMPORTAMENTAL da GESTALT**
+1. **A MANEIRA PARTICULAR COMO UM INDIVÍDUO INTERPRETA DETERMINADA SITUAÇÃO -> MEIO COMPORTAMENTAL da GESTALT**
     * **Obs**: "A maneira particular como um indivíduo **INTERPRETA**" significa a maneira como cada indivíduo **PERCEBE** enquanto fenômeno psicofisiológico
 2. As **CARACTERÍSTICAS DE PERSONALIDADE** do indivíduo;
 3. Os **COMPONENTES EMOCIONAIS** ligados à situação **de vida** e **vivida** própria do indivíduo;
@@ -308,7 +300,7 @@ E(<b>SITUAÇÕES PASSADAS</b><br>que estejam ligadas<br>ao acontecimento)-->F(<b
 F-->G(A <b>TOTALIDADE DOS FATOS</b> que<br>determinam o comportamento<br>do indivíduo <b>num determinado momento</b>)
 ```
 
-### EXEMPLO: Campo Psicológico e Espaço Vital
+#### EXEMPLO: Campo Psicológico e Espaço Vital
 
 1. **RELATO**:
 
@@ -337,7 +329,7 @@ B-->C(Compreensão do que<br><b>DETERMINA O COMPORTAMENTO</b>)
 
 </center>
 
-### A Compreensão do CONCEITO DE GRUPO
+#### A Compreensão do CONCEITO DE GRUPO
 
 * Praticamente todos os momentos de nossas vidas OCORREM dentro de GRUPOS;
 * Para Lewin:
@@ -350,7 +342,7 @@ B-->C(Compreensão do que<br><b>DETERMINA O COMPORTAMENTO</b>)
     * Sobre os GRANDES GRUPOS: Ele considerava que a Psicologia não tinha INSTRUMENTAL SUCICIENTE para entender o estudo das GRANDES MASSAS;
 
 
-### O conceito de CAMPO PSICOLÓGICO e a PSICOLOGIA SOCIAL
+#### O conceito de CAMPO PSICOLÓGICO e a PSICOLOGIA SOCIAL
 
 * Lewin criou o conceito de CAMPO SOCIAL que é formado pelo GRUPO e pelo AMBIENTE;
 * Umas das CARACTERÍSTICAS DO GRUPO é o CLIMA SOCIAL;
@@ -366,36 +358,36 @@ B-->C(Compreensão do que<br><b>DETERMINA O COMPORTAMENTO</b>)
     * OUTRAS TEORIAS que envolvem grupos;
     * TÉCNICAS de trabalho com grupos
 
-## Resumo do Capítulo 5 - A Psicanálise
+### Capítulo 5 - A Psicanálise
 
 * Em breve, disponibilizaremos.
 
-## Resumo do Capítulo 7 - A Psicologia do Desenvolvimento
+### Capítulo 7 - A Psicologia do Desenvolvimento
 
 * Em breve, disponibilizaremos.
 
-# Livro: **Teorias da Personalidade** (FEIST; FEIST; ROBERTS, 2014)
+## Livro: **Teorias da Personalidade** (FEIST; FEIST; ROBERTS, 2014)
 
 <p align="center"> 
 <img height="450" width="350" src="https://live.staticflickr.com/65535/52390638603_e3a1239d33_o_d.jpg"></img><br>
 <b>Figura</b> -Livro **Teorias da Personalidade** (FEIST; FEIST; ROBERTS, 2014)
 </p>
 
-## Resumo do Capítulo 9 - Maslow: Teoria-Holístico-Dinâmica
+### Capítulo 9 - Maslow: Teoria-Holístico-Dinâmica
 
 * Em breve, disponibilizaremos.
 
-## Resumo do Capítulo 10 - Rogers: Teoria Centrada na Pessoa
+### Caítulo 10 - Rogers: Teoria Centrada na Pessoa
 
 * Em breve, disponibilizaremos.
 
-# Livro: **Introdução à Psicologia** (FELDMAN, 2015)[*](#feldman)
+## Livro: **Introdução à Psicologia** (FELDMAN, 2015)[*](#feldman)
 
 <p align="center"> 
 <img height="450" width="350" src="https://live.staticflickr.com/65535/52390788021_f55eb291eb_o_d.jpg"></img><br>
 <b>Figura</b> Livro - FELDMAN, Robert S. **Introdução à Psicologia**. 10.ed. Porto Alegre: AMGH Editora, 2015</p>
 
-## Capítulo 1 - Módulo 3 - Livro Introdução à Psicologia
+### Capítulo 1 - Módulo 3 - Livro Introdução à Psicologia
 
 <center><b>Capítulo 1 - Módulo 3 - Livro Introdução à Psicologia<sup>1<sup> </b></center>
 
@@ -418,15 +410,15 @@ B-->C(Compreensão do que<br><b>DETERMINA O COMPORTAMENTO</b>)
 	* O pesquisados simplesmente registra o que acontece
 	* O pesquisador não faz modificações na situação que está sendo observada;
 		* Exemplo:
-			* O pesquisador observa e registra o **tipo de ajuda prestada** em uma área urbana com alto índice de criminalidade.
+			- O pesquisador observa e registra o **tipo de ajuda prestada** em uma área urbana com alto índice de criminalidade.
 	* Vantagem: Obtemos uma amostra do que as pessoas fazem em seu *habitat*;
 	* ****INCONVENIENTES****:
 		* A **impossibilidade de controlar** qualquer um dos **fatores de interesse**;
 		* Poucos casos cuja previsibilidade permita observar dificultando a formulação de conclusões;
 		* É preciso esperar que as condições apropriadas (**fatores de interesse**) ocorram;
 		* Caso os participantes saibam ou percebam que estão sendo vigiados eles podem:
-			* Alterar as suas reações;
-			* Produzir um comportamento que não é verdadeiramente representativo
+			- Alterar as suas reações;
+			- Produzir um comportamento que não é verdadeiramente representativo
 
 >>>>>> ACRESCENTAR LINK PARA SECAO DO RESUMO DOS LIVROS
 
@@ -443,7 +435,7 @@ B-->C(Compreensão do que<br><b>DETERMINA O COMPORTAMENTO</b>)
 * Os pesquisadores conseguem ****deduzir**** com notável precisão como um grande grupo responderia;
 	* Exemplos:
 		* Pesquisadores que realizam **investigação sobre comportamento de ajuda**
-			* Podem realizar uma pesquisa pedindo às pessoas que completem um **questionário** no qual elas indicam **sua relutância em prestar auxílio a alguém**;
+			- Podem realizar uma pesquisa pedindo às pessoas que completem um **questionário** no qual elas indicam **sua relutância em prestar auxílio a alguém**;
 		* Pesquisadores interessados em **aprender sobre práticas sexuais**
 		* Podem realizar **levantamento** para **verificar quais práticas sexuais** **comuns** e quais **não são comuns**.
 		* Finalidade: Mapear as mudanças de noções de moralidade sexual durante as últimas décadas.
@@ -465,8 +457,8 @@ B-->C(Compreensão do que<br><b>DETERMINA O COMPORTAMENTO</b>)
 	* Aprender sobre os poucos indivíduos que estão sendo examinados;
 	* Usar conhecimentos adquiridos (a partir do estudo) para aperfeiçoar nossa compreensão das pessoas em geral.
 * Comentários e curiosidades:
-				* Sigmund Freud desenvolveu suas teorias por meio de **estudos de caso** de alguns de seus pacientes;
-				* Estudos de casos de terroristas podem **ajudar a identificar indivíduos que são propensos à violência**;
+  * Sigmund Freud desenvolveu suas teorias por meio de **estudos de caso** de alguns de seus pacientes;
+  * Estudos de casos de terroristas podem **ajudar a identificar indivíduos que são propensos à violência**;
 * Desvantagens e inconvenientes:
 	* Se os indivíduos examinados são excepcionais em algum aspecto, não é apropriado fazer generalizações para uma população mais ampla.
 > Observação: Mesmo em sua excepcionalidade, indivíduos ou pequenos grupos de indivíduos podem abrir caminho para **teorias** e **tratamentos** novos para **transtornos psicológicos**.
@@ -483,7 +475,7 @@ Na pesquisa correlacional, dois conjuntos de variáveis são examinados para det
 
 * A **força** e a **direção** da relação entre as duas variáveis são representadas por uma estatística matemática conhecida como ****correlação**** (ou, mais formalmente, como ****coeficiente de correlação****), que pode variar de +1,0 a -1,0.
 * Uma **correlação positiva** indica que, à medida que uma variável aumenta, podemos prever que o valor da outra variável também aumentará.
-	*  Por exemplo, se previrmos que, quanto mais tempo os alunos passam estudando para uma prova, maiores serão suas notas e que, quanto menos eles estudam, menor serão suas pontuações nas provas, estamos esperando encontrar uma correlação positiva. (Valores mais altos da variável “quantidade de tempo de estudo” estariam associados a valores mais altos da variável “pontuação na prova”, enquanto menores valores da “quantidade de tempo de estudo” estariam associados a valores mais baixos da variável “pontuação na prova”.)
+	* Por exemplo, se previrmos que, quanto mais tempo os alunos passam estudando para uma prova, maiores serão suas notas e que, quanto menos eles estudam, menor serão suas pontuações nas provas, estamos esperando encontrar uma correlação positiva. (Valores mais altos da variável “quantidade de tempo de estudo” estariam associados a valores mais altos da variável “pontuação na prova”, enquanto menores valores da “quantidade de tempo de estudo” estariam associados a valores mais baixos da variável “pontuação na prova”.)
 	* A correlação, então, seria indicada por um número positivo e, quanto mais forte for a associação entre estudar e pontuação nas provas, mais próximo de 1,0 será o número.
 * Em contraste, uma **correlação negativa** demonstra que, à medida que o valor de uma variável aumenta, o valor de outra diminui. Por exemplo, podemos prever que, à medida que o número de horas passadas estudando aumenta, o número de horas passadas participando de festas diminui. Nesse caso, estamos esperando uma correlação negativa, que varia entre 0 e -1,0. 
 	* Mais estudo está associado a menor participação em festas, enquanto menos estudo está associado a maior participação em festas. Quanto mais forte for a associação entre estudar e participar de festas, mais próxima será a correlação de -1,0. Por exemplo, uma correlação de -0,85 indicaria uma associação negativa forte entre participar de festas e estudar.
@@ -494,18 +486,18 @@ Na pesquisa correlacional, dois conjuntos de variáveis são examinados para det
 pessoa vai se sair em uma prova, mas isso não significa que estudar causa o desempenho na prova. 
 		* Em vez disso, por exemplo, as **pessoas que estão mais interessadas no assunto** poderiam estudar mais do que aquelas que estão menos interessadas; assim, a **quantidade de interesse**, e não o número de horas passadas estudando, preveria o desempenho em provas.
 	* O simples fato de que **duas variáveis ocorrem juntas** **não significa que uma cause a outra**. Simplesmente fornecem uma medida da força da relação entre duas variáveis
-		* Exemplos:
-			* Suponha que você descobriu que o **número de lugares de prática religiosa** em uma grande amostra de cidades estava positivamente relacionado ao **número de pessoas detidas**, significando que, quanto mais lugares de prática religiosa, mais detenções havia em uma cidade. Isso significa que a presença de mais espaços de prática religiosa causou o maior número de detenções? Quase certamente não, é claro. **Nesse caso, a causa subjacente é o tamanho da cidade**: em cidades maiores, existem mais espaços de prática religiosa tanto como de mais detenções.
-			* Crianças que assistem a muitos programas de televisão com alto nível de agressão são propensas a demonstrar um grau relativamente alto de comportamento agressivo e que aquelas que assistem menos a programas de televisão que retratam agressão são inclinadas a exibir um grau relativamente baixo desse comportamento (ver Fig. 2). Contudo, **não podemos dizer que a agressão é causada por ver televisão**, pois **muitas outras explicações são possíveis**. Pessoas que já são altamente agressivas poderiam escolher ver programas com um alto conteúdo agressivo porque elas são agressivas
+		- Exemplos:
+			- Suponha que você descobriu que o **número de lugares de prática religiosa** em uma grande amostra de cidades estava positivamente relacionado ao **número de pessoas detidas**, significando que, quanto mais lugares de prática religiosa, mais detenções havia em uma cidade. Isso significa que a presença de mais espaços de prática religiosa causou o maior número de detenções? Quase certamente não, é claro. **Nesse caso, a causa subjacente é o tamanho da cidade**: em cidades maiores, existem mais espaços de prática religiosa tanto como de mais detenções.
+			- Crianças que assistem a muitos programas de televisão com alto nível de agressão são propensas a demonstrar um grau relativamente alto de comportamento agressivo e que aquelas que assistem menos a programas de televisão que retratam agressão são inclinadas a exibir um grau relativamente baixo desse comportamento (ver Fig. 2). Contudo, **não podemos dizer que a agressão é causada por ver televisão**, pois **muitas outras explicações são possíveis**. Pessoas que já são altamente agressivas poderiam escolher ver programas com um alto conteúdo agressivo porque elas são agressivas
 
 * Desvantagem da pesquisa correlacional:
 	* A **impossibilidade** de a pesquisa correlacional **demonstrar relações de causa e efeito** é uma desvantagem crucial para seu uso. Contudo, ****existe uma técnica alternativa que estabelece causalidade: o experimento**.**
 
 * ****EXPERIMENTO****: Investigação da relação entre duas (ou mais) variáveis alterando--se deliberadamente uma situação e observando-se os efeitos dessa alteração em outros aspectos da situação.
 
-### 2.2.2. Método Científico: Método Experimental
+#### Método Científico: Método Experimental
 
-#### I ) Pesquisa Experimental
+##### Pesquisa Experimental
 <center> <b>Slides</b></center>
 
 * Os estudo experimental é o método para estabelecer explicações, de demonstrar a relação de causa e efeito.
@@ -533,7 +525,7 @@ afetos positivos, autoestima e apoio social, comparado ao grupo controle
 		* Latané e Darley tiveram de levar em conta o ****princípio fundamental da pesquisa experimental**** mencionado anteriormente: os experimentadores **devem manipular ao menos uma variável a fim de observar os efeitos da manipulação em outra variável**, enquanto outros fatores na situação são mantidos constantes. 
 		* Entretanto, ****a manipulação não pode ser vista isoladamente****; para que uma relação de causa e efeito seja estabelecida, os efeitos da manipulação devem ser comparados com os efeitos de nenhuma manipulação ou de outro tipo de manipulação.
 
-##### Grupos experimentais e grupos-controle
+###### Grupos experimentais e grupos-controle
 
 * A pesquisa experimental exige, portanto, que as respostas de ao menos dois grupos sejam comparadas.
 * ****Um grupo**** receberá um tratamento especial – a manipulação implementada pelo experimentador – e ****outro grupo**** receberá um tratamento diferente ou nenhum tratamento.
@@ -555,7 +547,7 @@ afetos positivos, autoestima e apoio social, comparado ao grupo controle
 	* Eles poderiam ter usado apenas **um grupo experimental**, por exemplo, de duas pessoas presentes, e **um grupo-controle** com apenas uma pessoa presente para fins de comparação. 
 	* Em vez disso, optaram por um procedimento mais complexo envolvendo a **criação de grupos de três tamanhos** – compostos por **duas**, **três** e **seis** pessoas – ****que poderiam ser comparados um com o outro****.
 
-##### Variáveis Independentes e Dependentes
+###### Variáveis Independentes e Dependentes
 
 * O projeto experimental de Latané e Darley agora incluía uma definição experimental do que é chamado de variável independente.
 * ****A variável independente**** é a condição que é manipulada por um experimentador.
@@ -578,7 +570,7 @@ como uma variável dependente.
 > > **Variável Independente**: Variável que **é manipulada** por um experimentador.
 > > **Variável Dependente**: Variável que **é mensurada **e que **se espera que se modifique** como resultado de mudanças causadas pela manipulação da variável independente realizada pelo experimentador.
 
-##### Distribuição aleatória dos participantes
+###### Distribuição aleatória dos participantes
 
 * Para tornar o experimento um teste válido da hipótese, Latané e Darley precisavam adicionar um passo final ao projeto experimental: designar corretamente os participantes a determinado grupo experimental.
 * O significado desse passo torna-se claro quando examinamos vários procedimentos alternativos. Por exemplo, os experimentadores poderiam ter designado somente homens para o grupo com dois espectadores, apenas mulheres para o grupo com três espectadores e ambos (homens e mulheres) para o grupo com seis espectadores. Contudo, caso tivessem feito isso, as eventuais diferenças que encontraram no comportamento de ajuda não poderiam ser atribuídas com certeza unicamente ao tamanho do grupo, pois elas poderiam igualmente ter resultado da composição do grupo. Um procedimento mais sensato seria assegurar que cada grupo tivesse a mesma composição em termos de gênero; assim, os pesquisadores teriam podido fazer comparações entre os grupos com mais precisão.
@@ -602,23 +594,24 @@ como uma variável dependente.
 <b>Figura</b> - Estratégias de pesquisa (figura 4)
 </p>
 
-##### Outros tópicos não abordados
+###### Outros tópicos não abordados
 
 No capítulo 3 do livro de FELDMAN, ainda constam dois tópicos que não abordei aqui por terem baixa chance de serem explorados na prova o que não prejudica a compreenção da **Pesquisa Experimental** 
 
 * Latané e Darley estavam certos?
 * Indo além do estudo
 
-# Livro: **Introdução à Psicologia** (DAVIDOFF, 2001)
+## Livro: **Introdução à Psicologia** (DAVIDOFF, 2001)
 
 <p align="center"> 
 <img height="450" width="350" src="https://live.staticflickr.com/65535/52391154549_d92c400508_o_d.jpg"></img><br>
 <b>Figura</b> - Livro <b>Introdução à Psicologia</b>  (DAVIDOFF, 2001)
 </p>
 
-## Capítulo XX
+### Capítulo XX
 
 * A definir.
+
 ## Referências Bibliográficas
 
 <a class="bibliografia" name="BOCH-FURTADO-TEIXEIRA"> BOCH, Ana Mercês Bahia; FURTADO, Odair; TEIXEIRA, Maria de Lourdes Trassi. Psicologias: Uma Introdução ao Estudo da Psicologia. 13.ed. São Paulo: Saraiva, 2001.</a>
