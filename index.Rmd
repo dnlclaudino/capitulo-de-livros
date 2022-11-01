@@ -1,5 +1,5 @@
 --- 
-title: "Bookdown de NOME-PRODUTO"
+title: "Bookdown Meus Resumos"
 author: "Daniel Claudino"
 date: "`r Sys.Date()`"
 output: pdf_document
@@ -9,7 +9,10 @@ bibliography:
 - packages.bib
 # cover-image: "imagens/capa-livro.png"
 description: |
-  Neste material, estão contidos um dos produtos(materiais) contidos abaixo.
+  Neste bookdown estarão contidos os resumos de Capítulos de livros, Artigos, Monografias, Dissertações, Teses,
+  Notícias de jornais. Esses materiais estarão relacionados com as disciplinas do 1º até o 10º período do curso
+  de Bacharelado em Psicologia, bem como com a elaboração do meu TCC, artigos, dissertações e teses a serem
+  publicados por mim.
 link-citations: yes
 lang: "pt-BR"
 site: bookdown::bookdown_site
@@ -18,33 +21,22 @@ always_allow_html: true
 
 # Apresentação
 
-<center><h2>Bookdown dos(as) NOME-DO-PRODUTO</h2></center>
+<center><h2>Bookdown Meus Resumos</h2></center>
 
-```{r echo=FALSE, fig.show="hold", out.width="50%", fig.align = "center", fig.cap="-"}
+```{r echo=FALSE, fig.show="hold", out.width="50%", fig.align = "center", fig.cap="Autor: Daniel Claudino"}
 knitr::include_graphics("imagens/FOTO-PERFIL-DANIEL-CLAUDINO-2020.png")
 ```
 
-* Neste bookdown pode estar contido qualquer dos tipos de produtos relacionados abaixo. Cada tipo de produto estará relacionado a uma ou mais disciplinas, desde o 1º até o 10º período do curso de Bacharelado em Psicologia. Disponibilizarei meu material, mas poderei disponibilizar material de outros colegas de sala, caso rececba autorização prévia deles.
-  * Notas de Aula
-  * Resumos de capítulos de livros;
-  * Resumos de apresentações(slides) da disciplina;
-  * Minhas apresentações(slides);
-    * Audience Q&A (Permite que o público das apresentação envie perguntas para o apresntador)
-    * Live Polls (Permite que o público das apresntações realize votações sobre os temas apresentados)
-    * Quiz (Permite que o público das apresentações participe de competições integrando-se e assimilando melhor os temas apresentados)
-  * Exercícios (elaborados/disponibilizados pelos professores, respondidos ou não em sala);
-  * Questionários para as provas;
-  * Formulários de pesquisa (Google Forms)
-    * Elaborados por mim para atendimento de necessidades dos dos meus colegas de sala, dos professores ou da disciplina;
-  * Coletas de dados
-    * Realizadas por mim para atendimento de necessidades dos dos meus colegas de sala, dos professores ou da disciplina; dos dos meus colegas de sala, dos professores ou da disciplina;
-  * Planilhas Eletrônicas
-    * Elaborados por mim para atendimento de necessidades dos dos meus colegas de sala, dos professores ou da disciplina;
-  * Filmes, Documentários e outros vídeos
-    * Recomendados pelos professores, pelos colegas ou por mim;
-  * Jogos de aprendizado criados
-    * (Kahoots / Site principal: kahoot.com / Login do jogador: kahoot.it)
-  * Outros materiais elaborados e disponibilizados pelos professores e por mim.
+Neste bookdown estarão contidos os resumos de:
+* Capítulos de livros
+* Artigos
+* Monografias
+* Dissertações
+* Teses
+* Notícias de jornais
+
+Esses materiais estarão relacionados com as disciplinas do 1º até o 10º período do curso de Bacharelado em Psicologia, bem como com a elaboração do meu TCC, artigos, dissertações e teses a serem publicados por mim.
+
 
 ## Controle de Versão
 
