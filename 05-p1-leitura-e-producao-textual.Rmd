@@ -1,5 +1,227 @@
 # P1 - Leitura e Produção Textual
 
-Neste capítulo estarão contidos os resumos dos slides da disciplina Leitura e Produção Textual.
+Neste capítulo estarão contidos os resumos capítulos de livros, artigos, monografias, dissertações, teses relacionados com a disciplina Leitura e Produção Textual.
 
-Em breve...
+## Artigo: [A importância de um sistema de saúde público e universal no enfrentamento à epidemia](https://www.epsjv.fiocruz.br/noticias/reportagem/a-importancia-de-um-sistema-de-saude-publico-e-universal-no-enfrentamento-a)
+
+### Referência Bibliográfica
+
+### Resumo
+
+### Resenha
+
+## Artigo: [Psicologia da Saúde: Contexto e intervenção](https://drive.google.com/file/d/1Xph9Bpk8TS42f-cGZP08vVJ3TLEqK3GZ/view?usp=sharing)** da Revista **Análise Psicológica**"
+
+### Referência Bibliografica
+
+CARVALHO TEIXEIRA, José A.; LEAL, Isabel. Psicologia da Saúde: Contexto e intervenção. Revista Análise Psicológica, v. 4, n. VIII, p. 453-458, 1990.
+
+### Resumo
+
+1. **Introdução**
+  - A Expressão Psicologia da Saúde
+    - Foi definida por Matarazzo (1980)
+    - CONCEITO: É a área disciplinar que diz respeito ao «papel da Psicologia como CIÊNCIA e como PROFISSÃO nos domínios da saúde e das medicinas comportamentais»
+  - O CONCEITO de PSICOLOGIA DA SAÚDE unificou e tomou como referências dois campos interdisciplinares
+    - SAÚDE COMPORTAMENTAL
+      - Se refere essencialmente à DIMENSÃO PREVENTIVA
+      - Uma subespecialidade interdisciplinar que se ocupa especificamente:
+        - Da promoção da saúde;
+        - Da prevenção da doença;
+        - De disfunções em pessoas habitualmente saudáveis;
+    - MEDICINA COMPORTAMENTAL
+      - Remete para as DIMENSÕES CURATIVA e de REABILITAÇÃO;
+      - Aproxima mais a Psicologia com as diversas especialidades médicas e cirúrgicas;
+      - Um campo interdisciplinar de prática clínica e de investigação que diz respeito a doença e a disfunções psicológicas com ela relacionadas.
+    - CONCEITO DOS AUTORES: PSICOLOGIA DA SAÚDE
+      - É a intervenção psicológica no campo da saúde e que melhor parece corresponder as necessidades da prática clínica.
+      - Permite integrar harmoniosamente os TRÊS NÍVEIS clássicos de PREVENÇÃO: primária, secundária e terciária
+  - A abordagem psicológica da saúde e da doença é uma resposta a necessidade de humanização dos cuidados de saúde;
+  - A Psicologia da Saúde é uma resposta a (1) necessidade essencial de INTERDISCIPLINARIEDADE da investigação científica e (2) a necessidade de uma COMUNICAÇÃO EFETIVA ( que alcance os RESULTADOS PRETENDIDOS )
+  - O discurso médico e o discurso psicológico em Psicologia da Saúde.
+  - Como será possível o diálogo interdisciplinar em Psicologia da Saúde ?
+  - O que espera-se da Psicologia em Psicologia da Saúde ?
+    - Que a Psicologia se mantenha e assegure:
+      - Sua identidade própria; e
+      - Sua autonomia.
+2. **Contexto**
+  - Psicologia da Saúde como **movimento mútuo de aproximação** entre a Psicologia e a Medicina
+  - Década de 70: O modelo clássico **BIOMÉDICO** e a proposta do modelo **BIOPSICOSOCIAL** de Engel(1970) e Lipowski(1977)
+    - **Consequências** do novo **modelo BIOPSICOSSOCIAL**:
+      - Foco na **PESSOA DOENTE** ao invés de na **DOENÇA**
+      - Compreensão mais ampliada **do ADOECER** e **do ESTAR DOENTE** correlacionando com:
+        - Condutas individuais;
+        - Personalidade;
+        - Estilo relacional;
+        - Outros aspectos psicológicos;
+        - Outros aspectos psicossociais.
+  - **Estilos individuais** de lidar com a **ADVERSIDADE**
+  - Os **modelos psicológicos**: Pespectivas COMPORTAMENTAL, PSICANALÍTICA e SISTEMÁTICA
+    - Perspectiva COMPORTAMENTAL;
+    - Perspectiva PSICANALÍTICA;
+    - Perspectiva SISTEMÁTICA.
+  - A progressiva **NECESSIDADE** de relacionar a Psicologia com a saúde física
+    - Decorrente do duplo enraizamento do MODELO BIOPSICOSSOCIAL e dos MODELOS PSICOLÓGICOS (perspectivas  COMPORTAMENTAL, PSICANALÍTICA e SISTEMÁTICA)
+    - Provocando o repensar da formação médica e da formação psicológica
+  - **Áreas de interesse** da Psicologia da Saúde (Subespecialidade da Psicologia Clínica)
+    - Estudo da ADAPTAÇÃO PSICOLÓGICA e ALTERAÇÕES DO COMPORTAMENTO associadas:
+      - Ao envelhecimento;
+      - À deterioração neurológica;
+      - À maternidade;
+      - Às doenças crônicas.
+    - Investigação do **PAPEL** e da **INFLUÊNCIA** de fatores PSICOLÓGICOS e da PERSONALIDADE:
+      - CAUSALIDADE MULTIFATORIAL:
+        - De doenças corporais;
+        - Na EVOLUÇÃO, TRATAMENTO e REABILITAÇÃO de doenças corporais;
+    - Influência de VARIAVEIS PSICOLÓGICAS em ÁREAS PSICOLÓGICAS
+      - Respostas individuais a vários tratamentos médicos
+      - Estudo de Compliance
+      - As RESPOSTAS PSICOLÓGICAS aos PROCEDIMENTOS CIRÚRGICOS
+      - O IMPACTO PSICOLÓGICO da HOSPITALIZAÇÃO
+      - O tratamento da DOR CRÔNICA
+      - Aspectos interativos do stress
+      - coping e adaptação
+      - Doenças terminais
+    - Abordagem psicológica de PROMOÇÃO DA SAÚDE
+        - Determinantes das mudanças de ESTILOS DE VIDA relacionados com a saúde;
+    - Estudo dos ASPECTOS PSICOLÓGICOS associados ao
+      - Stress, Tabagismo, Obesidade,Diabetes, Doenças cardiovasculares, Asma Brônquica e Doenças cancerosas;
+      - Necessidade de Avaliação;
+      - Necessidade de Aoio Apsicológico;
+      - Problemas decorrentes de novas tecnologias
+      - Tecnologia de Transplantes;
+      - Tecnologias de Reprodução;
+  - O que é PSICOLOGIA DA SAÚDE
+    - É um PROCESSO em constante mudança (DEVIR) que tende para superação das perspectivas reducionistas da Medicina ( Através de MODELOS INTEGRATIVOS da SAÚDE e da DOENÇA );
+    - É uma SUBESPECIALIDADE da PSICICOLOGIA CLÍNICA
+      - Psicologia (Como CIÊNCIA e como PROFISSÃO)
+      - Onde a Psicologia:
+        - Atua ativamente no campo da saúde e da doença;
+        - Dialoga produtivamente com a Medicina ( Mantendo seus MODELOS, DISCURSO e AUTONOMIA )
+      - Onde as REALIDADES PSICOLÓGICAS tornam-se mais relevantes
+        - Na PROMOÇÃO DA SAÚDE;
+        - Na PREVENÇÃO DA DOENÇA;
+        - No Adoecer;
+        - No Estar-doente
+        - Na recuperação;
+        - Na reabilitação conducente à reinserção familiar e comunitária
+    - CAMPOS DE INTERESSE da PSICOLOGIA DA SAÚDE
+      - Estudo dos COMPORTAMENTOS DE RISCO para SAÚDE;
+      - Estudo dos COMPORTAMENTOS NECESSÁRIOS para MANUTENÇÃO DA SAÚDE;
+      - Cognições relacionadas com a saúde e com a doença;
+      - Aspectos psicológicos da adesão aos tratamentos;
+      - Aspectos psicológicos dos ambientes dos serviços de saúde;
+      - Estratégias de COPING relacionadas com a DOENÇA e com a INCAPACIDADE;
+      - Relações entre cuidados com a saúde e a qualidade de vida
+      - Aquisição precoce de COMPORTAMENTOS para a saúde;
+      - As condições de saúde dos técnicos de saúde;
+    - ATIVIDADES da PSICOLOGIA DA SAÚDE ( Por possuir DISCURSO PRÓPRIO e AUTONOMIA )
+      - Prevenção de saúde;
+      - Avaliação de saúde;
+      - Apoio Psicológico ligado aos cuidados de saúde;
+      - Investigações ligadas aos cuidados de saúde;
+  - Dada a COMPLEXIDADE DE QUESTÕES que a Psicologia tem que tratar, existe DIVERSIDADE:
+    - De modelos de formação;
+    - De modelos de informação;
+    - De contribuições teóricas
+    - De modelos de intervençaõ;
+  - COMO TRABALHA o PSICÓLOGO CLÍNICO com Psicologia da Saúde:
+    - APLICANDO 
+      - Teorias básicas
+      - Metodologias de avaliação
+      - Metodologias de investigação
+      - Modelos de intervenção da Psicologia no campo da saúde
+    - Numa PERSPECTIVA DE ABORDAGEM: Globalizante
+  - Funcionamento BIOLÓGICO x funcionamento PSICOLÓGICO (Roessler & Decker, 1986).
+    - DISFUNÇÕES BIOLÓGICAS podem produzir reações adversas ao FUNCIONAMENTO PSICOLÓGICO
+    - MUDANÇAS PSICOLÓGICAS e SOCIAIS podem produzir alterações no FUNCIONAMENTO BIOLÓGICO;
+3. **Intervenção**
+  - O OBJETO da Psicologia da Saúde ( definição ainda IMPRECISA )
+    - É a EXPERIÊNCIA PSICOLÓGICA
+    - É a RELAÇÃO que os sujeitos estabelecem:
+      - Com seu estado de saúde ou de doença;
+      - Com acontecimentos que associam-se frequentemente a MOMENTOS DE CRISE:
+        - Gravidez;
+        - Puberdade;
+        - Envelhecimento;
+        - Menopausa;
+      - Com especificidades biológicas
+  - A PSICOLOGIA DA SAÚDE trabalha com vivências que o sujeito
+    - Experimenta
+    - Projeta
+    - Reativa
+  - Para PSICOLOGIA DA SAÚDE o que INTERESSA são:
+    - As FORMAS pelas quais o sujeito lida com os acontecimentos
+    - Os MOTIVOS pelos quais o sujeito lida com os acontecimentos
+  - O CONCEITO DE SAÚDE
+    - Bem-estar físico, psicológico e social:
+      - Do sujeito
+      - Do grupo
+      - Da comunidade
+    - É mais que a AUSÊNCIA DE SINTOMAS
+    - É mais que DESVIOS em relação à MÉDIA
+    - É um sentir-se bem INDIVIDUALIZADO e SUBJETIVO
+    - TRADUZ uma representação social da nossa época
+    - É centrada no HOMEM e não na patologia ou entidades nosológicas;
+  - Os OBJETIVOS e METODOLOGIAS da Psicologia da Saúde
+    - São os objetivos específicos da Psicologia Geral
+    - São os específicos da Psicologias Clínica
+    - São centrados sobre um terreno que recebe da Medicina as suas CATEGORIAS DE INTERVENÇÃO
+  - OS OBJETIVOS da PSICOLOGIA DA SAÚDE são: ( O que a Psicologia da Saúde pretende ?  Em resumo, que o sujeito possa lidar o melhor possível com a nova situação )
+    - Optimização dos RECURSOS AFETIVOS e COGNITIVOS do sujeito
+    - Adoção de ESTRATÉGIAS adequadas para SUPERAÇÃO DE CRISES
+    - REFORÇO de DEFESAS eventualmente enfraquecidas
+  - Exemplos de Atividades de INTERVENÇÃO em Psicologia da Saúde
+    - Prevenção, avaliação, tratamento e reabilitação de disfunções psicológicas em doentes físicos;
+    - Aconselhamento e troca de informações com os outros técnicos de saúde sobre aspectos psicológicos (e psicossociais) dedoentes físicos, particularmente em estudos de casos individuais;
+    - Tratamento psicológico de reacções psicológicas as doenças físicas, com incidência particular na experiência vivida da doença e das suas limitações;
+    - Prevenção e/ou tratamento de condutas desajustadas que são consequência ou mesmo parte integrante das doenças corporais;
+    - Identificação e suporte de sujeitos em risco psicológico colocados perante o adoecer corporal;
+    - Aconselhamento e suporte de problemas familiares relacionados com a doença física de um dos seus membros;
+    - Facilitação da comunicação entre as pessoas doentes e as equipas de saúde, prevenindo conflitos potenciais e manejando os     manifestos;
+    - Participação activa em programas de reabilitação de doentes físicos, particularmente com doenças crónicas invalidantes e exigindo processo activo de reabilitação psicológica e psicossocial;
+    - Investigação nas áreas de intervenção dos factores psicológicos nas doenças corporais e, ainda, na organização e funcionamento dos serviços de saúde e seu impacto psicológico sobre as pessoas doentes;
+    - Estudo e implementação da modificação de comportamentos e de estilos de vida, necessária para a conservação da saúde e prevenção da doença.   
+  - Modelo psicológicos de INFORMAÇÃO, FORMAÇÃO e INTERVENÇÃO em Psicologia da Saúde
+    - Não existe um modelo único, existem vários;
+    - Usam-se vários modelos de acordo com as NECESSIDADES e CIRCUNSTÂNICAS de cada caso individual, sempre com a necessária FLEXIBILIDADE indispensável a prática clínica;
+  - Os INSTRUMENTOS FUNDAMENTAIS de INTERVENÇÃO ( Específicos da Clínica Psicológica )
+    - Entrevista clínica
+    - Exame Psicológico
+    - Psicoterapia
+  - A importância da PSICOTERAPIA em Psicologia da Saúde
+    - O que habitualmente se pede ao Psicólogo Clínico:
+      - Que colabore na CLARIFICAÇÃO de uma situação
+      - Que ajude o sujeito a MUDAR, PROMOVENDO um melhor ajustamento psicológico:
+        - À situação
+        - Às consequências da situação
+  - Definição de PSICOTERAPIA DE APOIO
+    - Uma forma de tratamento psicológico para sujeitos com problemas físicos (ou mentais crónicos) para os quais a MUDANÇA RADICAL não
+constitui um OBJETIVO REALISTA (Sidney Bloch,1979).
+    - Ela não inviabiliza:
+      - Outra alternativa psocoterapêutica ulterior;
+      - Qualquer encaminhamento considerado adequado ou possível
+    - Os OBJETIVOS da PSICOTERAPIA DE APOIO
+      - Promover o melhor funcionamento psicológico possível, reforçando as capacidades do sujeito para lidar com os vários aspectos da sua vida e com a adversidade;
+      - Aumentar a auto-estima e tornar a pessoa cada vez mais consciente da realidade;
+      - Prevenir as eventuais recidivas, combater a dependência e outros factores que possam contribuir para o aparecimento de cronicidade psicológica;
+      - Vir a transferir a fonte de apoio (pelo menos em parte) para a família e rede social de apoio.
+  - Os COMPONENTES PRINCIPAIS da INTERVENÇÃO terapêutica
+    - Transmissão de segurança;
+    - Explicação;
+    - Sugestão;
+    - Aconselhamento;
+    - Encorajamento;
+    - Modificação de circunstâncias ambienciais;
+    - Permissão para a exteriorização emocional e afectiva
+    - Uso de técnicas de intervenção cognitiva e comportamental diversas, consoante as especificidades do sujeito e da situação  que podem ser ÚTEIS EM SITUAÇÕES ESPECÍFICAS:
+      - Tratamento da dor crónica;
+      - Mudança de comportamentos de risco em doentes coronários;
+      - Preparação psicológica para a cirurgia;
+      - Tabagismo, etc.
+  - A Psicologia da Saúde é um reencontro entre a CONGIÇÃO e o AFETO.
+* **OBSERVAÇÃO**:
+  * Definição de COPING: "tentativa ou empenho para lidar com exigências externas (do ambiente) ou internas (do próprio sujeito) percebidas como sobrecarregando ou excedendo os recursos da pessoa.”(Folkman e Lazarus)" [Site **Psicologia.pt**](https://www.psicologia.pt/artigos/ver_opiniao.php?codigo=AOP0216)
+
+### Resenha
+
