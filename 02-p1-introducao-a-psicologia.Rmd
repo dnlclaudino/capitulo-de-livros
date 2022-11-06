@@ -78,8 +78,73 @@ C-->E(Aquilo que o organismo faz)
 
 ##### Comportamento Respondente
 
-* O comportamento reflexo ou respondente é o que usualmente chamamos de “não-voluntário” e inclui as respostas que são eliciadas (“produzidas”) por estímulos antecedentes do ambiente.
+* O **COMPORTAMENTO REFLEXO** OU **COMPORTAMENTO RESPONDENTE**
+  * É o que usualmente chamamos de “não-voluntário” e inclui as respostas que são eliciadas (“produzidas”) por estímulos antecedentes do ambiente.
+    * Exemplo:
+      a. Contração das pupilas quando uma luz forte incide sobre os olhos
+      b. Salivação provocada por uma gota de limão colocada na ponta da língua
+      c. Arrepio da pele quando um ar frio nos atinge
+      d. Lacrimejar ao cortar cebola;
+  * São interações estímulo-resposta (ambiente-sujeito)
+    * **INCONDICIONADAS**
+    * Nos quais certos eventos ambientais **confiavelmente** eliciam certas respostas do organismo que INDEPENDEM de “aprendizagem”
+    * Que também podem ser provocadas por estímulos que, originalmente, não eliciavam respostas em determinado organismo
+* Quando **ESTÍMULOS QUE ORIGINALMENTE NÃO ELICIAVAM CERTAS RESPOSTAS** são pareados com estímulos eliciadores, em certas condições, podem elicitar respostas semelhantes às destes.
+* As **NOVAS INTERAÇÕES (estímulo-resposta)** são também chamados de **COMPORTAMENTO REFLEXO** ( INTERAÇÕES CONDICIONADAS devido a história de pareamento o qual levou o organismo a responder a estímulos que antes não respondia ).
+  * Exemplo:
+    1. Suponha que, numa sala aquecida, sua mão direita seja mergulhada numa vasilha de água gelada
+    2. A temperatura da mão cairá rapidamente devido ao encolhimento ou constrição dos vasos sangüíneos, caracterizando o comportamento como respondente
+    3. Esse comportamento será acompanhado de uma modificação semelhante, e mais facilmente mensurável, na mão esquerda, onde a constrição vascular também será induzida.
+    4. Suponha, agora, que a sua mão direita seja mergulhada na água gelada um certo número de vezes, em intervalos de três ou quatro minutos, e que você ouça uma campainha pouco antes de cada imersão.
+    5. Lá pelo vigésimo pareamento do som da campainha com a água fria, a mudança de temperatura nas mãos poderá ser eliciada apenas pelo som, isto é, sem necessidade de imergir uma das mãos
+    * Análise:
+      a. A queda da temperatura da mão, eliciada pela água fria, é uma resposta incondicionada
+      b. A queda da temperatura, eliciada pelo som, é uma resposta condicionada (aprendida)
+      c. A água é um estímulo incondicionado, e o som, um estímulo condicionado
+* No início dos anos 30, na Universidade de Harvard (Estados Unidos), Skinner começou o estudo do comportamento justamente pelo comportamento respondente
+  * O **COMPORTAMENTO RESPONDENTE** que se tornou:
+    * A unidade básica de análise, ou seja, o fundamento para a descrição das interações indivíduo ambiente. 
+  * O desenvolvimento de seu trabalho levou-o a teorizar sobre um outro tipo de relação do indivíduo com seu ambiente, a qual viria a ser **NOVA UNIDADE DE ANÁLISE** de sua ciência: **o comportamento**
+  * Esse **tipo de comportamento** caracteriza a **maioria de nossas interações com o ambiente**.
 
+##### O Comportamento Operante
+
+<center>EXPERIMENTO DA CAIXA DE SKINNER</center>
+
+```{r echo=FALSE, fig.show="hold", out.width="90%", fig.align = "center", fig.cap="Caixa de Skinner"}
+knitr::include_graphics("imagens/p1-caixa-de-skinner.jpg")
+```
+
+1. Um ratinho colocado na “caixa de Skinner" um recipiente fechado no qual encontrava apenas uma barra.
+2. Esta barra, ao ser pressionada por ele, acionava um mecanismo (camuflado) que lhe permitia uma gotinha de água, que chegava à caixa por meio de uma pequena haste
+3. Que resposta esperava-se do ratinho? — Que pressionasse a barra. 
+4. Como isso ocorreu pela primeira vez? — Por acaso. Durante a exploração da caixa, o ratinho pressionou a barra acidentalmente, o que lhe trouxe, pela primeira vez, uma gotinha de água, que, devido à sede, fora rapidamente consumida.
+5. Por ter obtido água ao encostar na barra quando sentia sede, constatou-se a alta probabilidade de que, **estando em situação semelhante**, o ratinho a pressionasse novamente.
+
+* Inclui todos os movimentos de um organismo dos quais se possa dizer que, em algum momento, têm efeito sobre ou fazem algo ao mundo em redor.
+* O comportamento operante opera sobre o mundo, por assim dizer, quer direta, quer indiretamente
+* Desde o início do Behaviorismo, animais (pombos, ratos e macacos) foram usados para verificar como as **variações no ambiente** interferiam nos **comportamentos**.
+  * Um ratinho, ao sentir sede em seu habitat, certamente manifesta algum comportamento que lhe permita satisfazer a sua necessidade orgânica
+  * Se deixarmos um ratinho privado de água durante 24 horas, ele certamente apresentará o comportamento de beber água no momento em que tiver sede
+* Comportamento Operante:
+  * Comportamento foi aprendido e que se mantém pelo efeito proporcionado: **saciar a sede**
+* Os pesquisadores da época decidiram **simular esta situação em laboratório**, SOB CONDIÇÕES ESPECIAIS DE CONTROLE, o que os levou à formulação de uma **LEI COMPORTAMENTAL**
+* Neste caso de COMPORTAMENTO OPERANTE:
+  * O que propicia a aprendizagem dos comportamentos ?
+    * É a ação do organismo sobre o meio
+    * É o efeito dela resultante — a satisfação de alguma necessidade, ou seja, a aprendizagem está na relação entre **UMA AÇÃO** e seu **EFEITO**.
+* Este comportamento operante pode ser representado da seguinte maneira: R --> S, em que R é a resposta (pressionar a barra) e S (doinglês stimuli) o estímulo reforçador (a água), que tanto interessa ao organismo; a flecha significa “levar a”.
+
+* Esse estímulo reforçador é chamado de reforço.
+* O termo “estímulo” foi mantido da relação R-S do comportamento respondente para designar-lhe a responsabilidade pela ação, apesar de ela ocorrer após a manifestação do comportamento.
+* O **COMPORTAMENTO OPERANTE** refere-se à interação sujeito-ambiente. Nessa interação: 
+  * Chama-se de relação fundamental à relação entre a ação do indivíduo (a emissão da resposta) e as conseqüências. 
+  * É considerada fundamental porque o organismo se comporta (emitindo esta ou aquela resposta), sua ação produz uma alteração ambiental (uma conseqüência) que, por sua vez, retroage sobre o sujeito, alterando a probabilidade futura de ocorrência.
+* Agimos ou operamos sobre o mundo em função das conseqüências criadas pela nossa ação.
+* As conseqüências da resposta são as variáveis de controle mais relevantes.
+* Exemplo:
+  * Pense no aprendizado de um instrumento: nós o tocamos para ouvir seu som harmonioso.
+  * Há outros exemplos: podemos dançar para estar próximo do corpo do outro, mexer com uma garota para receber seu olhar, abrir uma janela para entrar a luz etc.
 
 
 ### Capítulo 4 - A Gestalt
