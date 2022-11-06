@@ -4,23 +4,90 @@ Neste capítulo estarão contidos os resumos relacionados com a disciplina Intro
 
 ## Livro: **Psicologias Uma Introdução ao Estudo da Psicologia** (BOCH; FURTADO; TEIXEIRA, 2001)
 
-<p align="center"> 
-<img height="450" width="350" src="https://live.staticflickr.com/65535/52390638614_bcd4d68efb_o_d.jpg"></img><br>
-<b>Figura</b> - Livro Psicologias: Uma Introdução ao Estudo da Psicologia. 13.ed. São Paulo: Saraiva, 2001
-</p>
-
-capa-livro-psicologias.jpg
+```{r echo=FALSE, fig.show="hold", out.width="50%", fig.align = "center", fig.cap="Livro Psicologias: Uma Introdução ao Estudo da Psicologia. 13.ed. São Paulo: Saraiva, 2001"}
+knitr::include_graphics("imagens/capa-livro-psicologias.jpg")
+```
 
 ### Capítulo 3 - O Behaviorismo
 
-* Em breve, disponibilizaremos.
+#### O Estudo do Comportamento
+
+* O termo **Behaviorismo** foi inaugurado pelo americano **John B. Watson** num artigo publicado em **1913** intítulado “**Psicologia: como os behavioristas a vêem**”
+* Para denominar a tendência teórica foi utilizdo a expressão Behaviorismo, derivado da palavra em inglês *behavior* que significa Comportamento
+* Essa tendência teórica também é denominada:
+  * Comportamentalismo;
+  * Teoria Comportamental;
+  * Análise Experimental do Comportamento;
+  * Análise do Comportamento
+* **John B. Watson** deu a Psicologia a **consistência de ciência** que os psicólogos da época vinham procurando.
+  * "**Consistência de ciência**" significa possuir um objeto com as características de ser mensurável, observável, cujos experimentos poderiam ser reproduzidos em diferentes condições e sujeitos rompendo definitivamente com a sua *tradição filosófica*
+* **John B. Watson** postulou **O Comportamento** como objeto da Psicologia
+* **John B. Watson** defendia uma **perspectiva funcionalista** para a Psicologia, significando que:
+  * O comportamento deveria ser estudado cem função de certas variáveis do meio;
+  * Certos estímulos levam o organismo a dar determinadas respostas;
+  * Isso ocorre porque os organismos se ajustam aos seus ambientes:
+    * Por meio de equipamentos hereditários;
+    * Pela formação de hábitos;
+* **John B. Watson** buscava a construção de uma Psicologia:
+  * Sem alma;
+  * Sem mente;
+  * Livre de conceitos mentalistas;
+  * Livre de métodos subjetivos;
+  * Que tivesse a capacidade de **Prever** e **Controlar**;
+* Desde o início (1913), os behavioristas foram modificando o significado do termo "*comportamento*"
+  * No início, o comportamento era visto como **ação isolada** do sujeito
+  * Posteriormentem, o comportamento passou a ser visto como uma interação entre aquilo que o sujeito faz e o ambiente onde o seu “fazer” acontece;
+* Behaviorismo dedica-se ao estudo:
+  * Das interações entre o indivíduo e o ambiente
+  * Entre as ações do indivíduo (suas respostas) e o ambiente (as estimulações)
+* Os psicólogos desta abordagem chegaram ao seguinte entendimento
+  * **Estímulo**: As variáveis ambientais que<br>interagem com o sujeito
+  * **Resposta**: Aquilo que o organismo faz
+
+```{r echo=FALSE}
+DiagrammeR::mermaid("
+graph TD
+A(Termos)-->B(Estímulo)
+A-->C(Resposta)
+B-->D(As variáveis ambientais que<br>interagem com o sujeito)
+C-->E(Aquilo que o organismo faz)
+                    ")
+```
+
+* As **razões** para explicar a adoção dos termos **Estímulo** e **Resposta**
+  * **Razão Metodológica**: Adoção de método analítico e experimental como modo preferencial de investigação;
+  * **Razão Histórica**: Devido ao seu **uso generalizado**. Os termos escolhidos eram popularizados que foram mantidos ao longo do tempo
+* O **COMPORTAMENTO**
+  * É a unidade básica de descrição;
+  * É o ponto de partida para uma ciência do comportamento
+* O homem começa a ser
+  * Estudado a partir de sua interação com o ambiente;
+  * Ser tomado como **produto** e **produtor** dessas interações.
+  
+#### A Análise Experimental do Comportamento
+
+* Um dos mais importantes sucessores de **John B. Watson** foi **B. F. Skinner (1904-1990)**
+* O Behaviorismo de Skinner tem influenciado muitos psicólogos americanos e de vários países onde a Psicologia americana tem grande penetração, como o Brasil
+* Esta linha de estudo ficou conhecida por **Behaviorismo radical** (Skinner, em 1945)
+* A expressão **Behaviorismo radical** foi designada [por Skinner] como **uma filosofia da Ciência do Comportamento** por meio da **análise experimental do comportamento**.
+* O **comportamento operante** é a **BASE DO BEHAVIORISMO RADICAL** de Skinner
+* Para entender o **comportamento operante** é necessário compreender antes dois outros conceitos:
+  * Comportamento Reflexo
+  * Comportamento Respondente
+
+
+##### Comportamento Respondente
+
+* O comportamento reflexo ou respondente é o que usualmente chamamos de “não-voluntário” e inclui as respostas que são eliciadas (“produzidas”) por estímulos antecedentes do ambiente.
+
+
 
 ### Capítulo 4 - A Gestalt
 
 #### A Psicologia da Forma: Introdução à Psicologia da Gestalt
 
 * Para Bock (2001, p. 59) a Psicologia da Gestalt é uma das tendências teóricas mais **coerentes** e **coesas** da história da psicologia.
-* O termo Gestalt é de origem alemã e tem significado aproximado ao de **forma** ou **configuração**, ****porém**** **NÃO É UTILIZADO** por não corresponder exatamente as seu real significado em psicologia.
+* O termo Gestalt é de origem alemã e tem significado aproximado ao de **forma** ou **configuração**, **porém** **NÃO É UTILIZADO** por não corresponder exatamente as seu real significado em psicologia.
 * No final do século XIII, estudiosos procuravam compreender o **fenômeno psicológico** em seus <amarelo>aspectos naturais</amarelo>.
 	* Principalmente no sentido da **mensurabilidade** ( A Psicofísica em voga ).
 

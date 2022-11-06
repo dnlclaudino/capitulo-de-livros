@@ -4,11 +4,33 @@ Neste capítulo estarão contidos os resumos capítulos de livros, artigos, mono
 
 ## Artigo: [A importância de um sistema de saúde público e universal no enfrentamento à epidemia](https://www.epsjv.fiocruz.br/noticias/reportagem/a-importancia-de-um-sistema-de-saude-publico-e-universal-no-enfrentamento-a)
 
+Resumo elaborado pelo aluno ***Daniel de Lima Claudino**, em 01/11/2022, para obtenção de nota referente ao Trabalho Acadêmico Efetivo (TAE), conforme previsto no plano da disciplina Leitura e Produção Textual do curso de Bacharelado em Psicologia.
+
 ### Referência Bibliográfica
 
-### Resumo
+GUIMARÃES, Cátia. A importância de um sistema de saúde público e universal no enfrentamento à epidemia. Disponível em: https://www.epsjv.fiocruz.br/noticias/reportagem/a-importancia-de-um-sistema-de-saude-publico-e-universal-no-enfrentamento-a. Acesso em: 01 nov. 2022.
 
-### Resenha
+### Resumo Informativo (Analítico) 
+
+Cátia Guimarães inicia seu artigo afirmando que a existência de um sistema público de saúde contribui num momento de crise sanitária como a COVID-19. Declara ainda que esse mesmo sistema é subfinanciado e que ele apresenta vantagens em relação ao de outros países.
+
+Angélica Fonseca, professora-pesquisadora da Escola Politécnica de Saúde Joaquim Venâncio (EPSJV), da Fiocruz afirma que acredita ser ingênuo pensar que o enfrentamento da pandemia no Brasil poderia se dar fora de um sistema público, fora do Sistema Único de Saúde (SUS). Afirma a professora que o "sofrimento coletivo" não é suficiente para inverter a lógica dos interesses particulares. Gastão Wagner, médico e professor da Universidade Estadual de Campinas (Unicamp) destaca que se uma situação como essa da pandemia acontecesse no Brasil antes do SUS, “80% a 90% da população” só teria como alternativa correr para o pronto-socorro, único serviço de assistência à saúde gratuito para qualquer pessoa naquela época, antes da criação do SUS.
+
+O SUS foi criado com a Constituição Federal em 1988, art. 196, declarando ser "aúde é direito de todos e dever do Estado" se comprometendo ainda em garantir "acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação [ de saúde ]". Essas características são importantes no momento do enfrentamento de uma epidemia, destaca Cristiani Machado, pesquisadora e atual vice-presidente de Ensino, Informação e Comunicação da Fiocruz.
+
+Antes do SUS, não havia Unidades Básicas de Saúde (UBS), as pessoas não tinham garantido o acesso hospitalar, sem contar que era muito pequeno número de hospitais. A saúde era, principalmente a assistência médica e hospitalar, eraconduzida pelo Ministério da Previdência e Assistência Social (MPAS). A saúde pública era isolada da rede, sendo o Ministério da Saúde responsável, principalmente, por ações de campanhas e vacinas, por exemplo. O Ministério da Previdência só atendia uma parte da população – aquela que tinha vínculo formal de trabalho. O resto ou pagava pelo serviço privado ou corria para o pronto socorro. Gastão Wagner, médico e professor da Unicamp afirma que se esse modelo não tivesse mudado, os mais de 12 milhões de desempregados e 38 milhões de trabalhadores informais que existem hoje no Brasil [2020] simplesmente estariam sem cobertura em meio à pandemia. O acesso da população nesse modelo ligado ao seguro social é condicionado à inserção no mercado de trabalho, ao status social, ao nível de renda. Esse tipo de modelo tende a ter mais dificuldade de dar respostas integradas e coordenadas de atenção à população e são sistemas geradores das maiores desigualdades.
+
+Cristiani Machado, pesquisadora da Fiocruz, destaca ainda que os países latino-americanos, em geral, têm “sistemas de proteção social mais precários e sistemas de saúde mais frágeis” do que o Brasil e ainda estão fortemente ancorados na lógica do seguro social. "Muitas vezes isso atinge 50% da população e a outra metade só tem acesso a serviços básicos que não dão conta da maior parte dos problemas de saúde da população", afirma. O Brasil, na América Latina, é uma exceção no sentido da existência do sistema único de saúde, embora, segundo Cristiani, seja marcado por muitas contradições.
+
+Cristiani apresenta o que ela entende ser contradições no SUS. A existência do SUS, como sistema universal, não garante ums situação confortável em qualquer caso. Isso é um reflexo do tamanho do desafio único no mundo: "Oferecer saúde pública e gratuita, entendida como um direito, num país continental, que hoje tem quase 210 milhões de habitantes". A autora apresenta dados relativos à população de outros países em relação ao Brasil e à cobertura do SUS: o Reino Unido, com população menor que 67 milhões. No Canadá, 38 milhões. No Brasil, hoje, temos "162 milhões de pessoas dependem exclusivamente do SUS, sem contar que os cerca de 47 milhões que têm planos de saúde também utilizam o sistema público(p. ex. como vacinação e transplantes)".
+
+Aliado a ela, existe também um problema crônico: o subfinanciamento, principal obstáculo apontado por profissionais e pesquisadores da área desde a criação do SUS. “O SUS nunca teve recursos suficientes para a concretização plena dos seus princípios e vem sofrendo restrições muito importantes no período mais recente, com a Emenda Constitucional 95 e outras medidas que estão subtraindo recursos da saúde, justamente quando a nossa população está ficando mais idosa”, explica Cristiani. Segundo cálculos dos economistas Francisco Funcia, Rodrigo Benevides e Carlos Ocké-Reis, só com a Emenda Constitucional 95, que estabeleceu um teto de gastos para o governo federal, o SUS perdeu R$ 22,48 bilhões em entre 2018 e 2020.
+
+Outra “contradição” importante do sistema brasileiro, destacada por Cristiani, é a existência – e o crescimento – de um setor privado e lucrativo da saúde, muitas vezes beneficiado por recursos públicos, por exemplo, através de renúncia fiscal. Um gargalo do país, que precisa e pode ser contornado a tempo, é a quantidade de leitos com terapia intensiva disponíveis para os eventuais casos mais graves de coronavírus.
+
+
+Entre desafios e contradições, os pesquisadores não têm dúvida do saldo positivo de se ter um sistema público e universal de saúde. Gastão Wagner, médico e professor da Unicamp, conclui que "Um efeito inesperado do coronavírus é o fortalecimento dessa ideia de que a atenção e o cuidado à saúde precisam estar fora do mercado".
+
 
 ## Artigo: [Psicologia da Saúde: Contexto e intervenção](https://drive.google.com/file/d/1Xph9Bpk8TS42f-cGZP08vVJ3TLEqK3GZ/view?usp=sharing)** da Revista **Análise Psicológica**"
 
@@ -224,4 +246,24 @@ constitui um OBJETIVO REALISTA (Sidney Bloch,1979).
   * Definição de COPING: "tentativa ou empenho para lidar com exigências externas (do ambiente) ou internas (do próprio sujeito) percebidas como sobrecarregando ou excedendo os recursos da pessoa.”(Folkman e Lazarus)" [Site **Psicologia.pt**](https://www.psicologia.pt/artigos/ver_opiniao.php?codigo=AOP0216)
 
 ### Resenha
+
+Inicialmente, os autores estabelecem os necessários esclarecimentos terminológicos para o desenvolvimento adequado do tema do artigo. Eles afirmam que a expressão Psicologia da Saúde foi definida por Matarazzo (1980). Afirmam que ela é a área disciplinar que diz respeito ao "papel da Psicologia como CIÊNCIA e como PROFISSÃO nos domínios da saúde e das medicinas comportamentais". O conceito de psicologia da saúde unificou e tomou como referências dois campos interdisciplinares SAÚDE COMPORTAMENTAL e MEDICINA COMPORTAMENTAL. Para os autores, a Psicologia da Saúde é a intervenção psicológica no campo da saúde e que melhor parece corresponder as necessidades da prática clínica.
+
+A abordagem psicológica da saúde e da doença é uma resposta a necessidade de humanização dos cuidados de saúde e é uma resposta a necessidade essencial de INTERDISCIPLINARIEDADE da investigação científica, assim como a necessidade de uma COMUNICAÇÃO EFETIVA para que alcance os RESULTADOS PRETENDIDOS no âmbito dos serviços de saúde.
+
+A autora demonstra de forma clara e objetiva que o surgimento dessa subárea da Psicologia Clínica aproximou o discurso médico e o discurso psicológico em Psicologia da Saúde. Essa aproximação torna-se possivel com o diálogo interdisciplinar da Psicologia da Saúde com diversas outras áreas da saúde. Para cumprir esse desiderato (humanização e comunicação efetiva), espera-se que a Psicologia (em Psicologia da Saúde) mantenha e assegure sua identidade própria e sua autonomia.
+
+Em seguida a autora esclarece como surgiu a Psicologia da Saúde como **movimento mútuo de aproximação** entre a Psicologia e a Medicina. Na década de 70, o modelo clássico era o **BIOMÉDICO**. A partir dessa década surge a proposta do modelo **BIOPSICOSOCIAL** de Engel(1970) e Lipowski(1977). O foco passa a ser a pessoa doente ao invés da doença. Isso demonstra com claridade haver o progresso de uma compreensão mais ampliada **do ADOECER** e **do ESTAR DOENTE**, correlacionando condutas individuais, personalidade, estilo relacional, outros aspectos psicológicos entre outros aspectos psicossociais. Consideração ainda, estilos individuais de lidar com a **adversidade**.
+
+A progressiva **NECESSIDADE** de relacionar a Psicologia com a saúde física decorrente do duplo enraizamento do MODELO BIOPSICOSSOCIAL e dos MODELOS PSICOLÓGICOS (perspectivas  COMPORTAMENTAL, PSICANALÍTICA e SISTEMÁTICA) provocou um repensar da formação médica e da formação psicológica.
+
+As **áreas de interesse** da Psicologia da Saúde (Subespecialidade da Psicologia Clínica) são bastante variadas, mas sempre carregam a perspectiva multidisciplinar de modelo BIOPSICOSOCIAL, estudando a **adaptação psicológica** e as **alterações do comportamento** associadas. Como exemplo, sitam-se o envelhecimento, a deterioração neurológica, a maternidade, doença e doenças crônicas. São temas de subespecialidade a investigação do **papel** e da **influência** de fatores PSICOLÓGICOS e da PERSONALIDE a causalidade multifatorial de doenças corporais na evolução, tratamento e reabilitação de doenças corporais. Estuda-se a influência de variáveis psicológicas em respostas individuais a vários tratamentos médicos, estudo de compliance, respostas psicológicas aos procedimentos cirúrgicos, o impacto psicológico da hospitalização, o tratamento da dor crônica, aspectos interativos do stress, coping e adaptação e doenças terminais. Trata-se ainda da abordagem psicológica de **promoção da saúde** dos determinantes das mudanças de ESTILOS DE VIDA relacionados com a saúde, estudo dos ASPECTOS PSICOLÓGICOS associados ao stress, tabagismo, obesidade, diabetes, doenças cardiovasculares, asma brônquica e doenças cancerosas. 
+
+Os autores demonstram que a Psicologia Saúde é um PROCESSO em constante mudança (DEVIR) que tende para superação das perspectivas reducionistas da Medicina ( Através de MODELOS INTEGRATIVOS da SAÚDE e da DOENÇA );
+
+Os **campos de interesse** da Psicologia da Saúde são diversos, estudando os comportamentos de risco para a saúde, os comportamentos necessários para manutenção da saúde, as cognições relacionadas com a saúde e com a doença, os aspectos psicológicos da adesão aos tratamentos, os aspectos psicológicos dos ambientes dos serviços de saúde, as estratégias de COPING relacionadas com a doença e com a incapacidade, relações entre cuidados com a saúde e a qualidade de vida, aquisição precoce de comportamentos para a saúde, entre outros.
+
+A Psicologia da Saúde apresenta discurso próprio e autonomia, atuando na prevenção de saúde, avaliação de saúde, apoio psicológico ligado aos cuidados de saúde e investigações ligadas aos cuidados de saúde;
+
+Diante desse contexto complexo de atuação, a Psicologia da Saúde possui uma diversidade de modelos de formação, de modelos de informação, de contribuições teóricas e de modelos de intervenção. O modelo biopsicosocial afirma que o funcionamento biológico pode afetar o funcionamento psicológico, assim comomudanças psicológicas e sociais podem produzir alterações no funcionamento biológico.
 

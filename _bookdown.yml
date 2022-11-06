@@ -1,4 +1,4 @@
-book_filename: "Bookdown Meus Resumos"
+book_filename: "Bookdown-Meus-Resumos"
 delete_merged_file: true
 output_dir: "docs"
 language:
